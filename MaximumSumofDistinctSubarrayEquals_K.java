@@ -26,4 +26,4 @@ for (int right = 0; right < nums.length; right++) {
     return maxSum;  
 }
 
-} trace
+} 
