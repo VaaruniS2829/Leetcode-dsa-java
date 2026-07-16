@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 class Solution {
     public int findMinDiff(int[] arr, int m) {
